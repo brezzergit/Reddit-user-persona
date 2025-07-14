@@ -1,0 +1,5 @@
+praw
+openai
+tiktoken
+langchain
+python-dotenv
